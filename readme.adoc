@@ -1,1 +1,25 @@
-= Idea Hub for jQAssisant
+= Idea Hub for jQAssistant
+
+This is the place for you to request totally new features and bigger enhancements
+for existing ones.
+
+== Motivation
+
+jQAssistant consists of multiple modules, each with his own Git repository
+here in this Github organisation. Not being deeply familiar with the structure
+of jQAssistant, this can be confusing.
+
+Therefore we created the **Idea Hub for jQAssistant**. It is intended
+to be a reservoir for suggestions and ideas by the users of jQAssistant.
+
+== Usage Guidelines
+
+1. Check if your issue might be belong to one the already existing modules. If
+   yes, please file your issue there.
+2. If you would like to suggest a totally new feature or if you are not
+   certain where your issue belongs to, please file it here.
+
+== Review of your issues
+
+We will regularly have a look at all the issues in the Idea Hub, moving
+them to the right repository and prioritizing them.
